@@ -38,3 +38,10 @@ span {
     border-radius: 4px;
     columns: #fff;
 }
+
+button {
+    font-size: 3rem;
+    cursor: pointer;
+    background-color: transparent;
+    border: 0px;
+}

@@ -1,0 +1,12 @@
+*,
+*::after,
+*::before {
+    padding: 0px;
+    margin: 0px;
+    font-size: inherit;
+}
+
+html,
+body {
+    height: 100vh;
+}

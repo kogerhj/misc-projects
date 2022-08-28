@@ -14,6 +14,7 @@ btns.forEach(function(btn){
         else if(styles.contains('add')) {
             count++;
         }
+        else count = 0;
         output.textContent = count;
     })
 })

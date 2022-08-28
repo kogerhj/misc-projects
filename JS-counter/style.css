@@ -42,6 +42,9 @@ span {
 button {
     font-size: 3rem;
     cursor: pointer;
-    background-color: transparent;
+    background-color: teal;
     border: 0px;
+    border-radius: 3px;
+    padding: 3px;
+
 }

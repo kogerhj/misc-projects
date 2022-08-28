@@ -23,18 +23,22 @@ body {
 
 .counter-container {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-direction: column;
     padding: 6px;
-    margin-top: 1rem;
+    margin: 1rem;
+}
+
+.container {
+    margin-bottom: 4px;
+    margin-left: 40px;
 }
 
 span {
     font-size: 3rem;
     background-color: #00bb00;
     padding: 2px 12px;
-    margin-left: 16px;
-    margin-right: 16px;
+    /* margin-left: 16px;
+    margin-right: 16px; */
     border-radius: 4px;
     columns: #fff;
 }

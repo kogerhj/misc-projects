@@ -26,6 +26,7 @@ body {
     flex-direction: column;
     padding: 6px;
     margin: 1rem;
+    align-items: center;
 }
 
 .container {
@@ -37,8 +38,6 @@ span {
     font-size: 3rem;
     background-color: none;
     padding: 2px 12px;
-    /* margin-left: 16px;
-    margin-right: 16px; */
     border-radius: 4px;
     columns: #fff;
 }

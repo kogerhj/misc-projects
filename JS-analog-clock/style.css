@@ -6,6 +6,8 @@ body {
     background: linear-gradient(to right, hsl(20, 100%, 50%), hsl(75, 100%, 50%));  
 }
 
+/*Clock body*/
+
 .clock {
     height: 300px;
     width: 300px;
@@ -14,6 +16,8 @@ body {
     border: 3px solid black;
     position: relative;
 }
+
+
 
 
 

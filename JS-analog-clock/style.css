@@ -63,6 +63,53 @@ body {
     transform: rotate(330deg);
 }
 
+/*Orient numbers upright*/
+
+.clock .num1 {
+    transform: rotate(-30deg);
+}
+.clock .num2 {
+    transform: rotate(-60deg);
+}
+
+.clock .num3 {
+    transform: rotate(-90deg);
+}
+
+.clock .num4 {
+    transform: rotate(-120deg);
+}
+
+.clock .num5 {
+    transform: rotate(-150deg);
+}
+
+.clock .num6 {
+    transform: rotate(-180deg);
+}
+
+.clock .num7 {
+    transform: rotate(-210deg);
+}
+.clock .num8 {
+    transform: rotate(-240deg);
+}
+.clock .num9 {
+    transform: rotate(-270deg);
+}
+.clock .num10 {
+    transform: rotate(-300deg);
+}
+.clock .num11 {
+    transform: rotate(-330deg);
+}
+
+
+
+
+
+
+
 
 
 

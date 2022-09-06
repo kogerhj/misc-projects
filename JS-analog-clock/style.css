@@ -51,6 +51,21 @@ body {
     background: black;
 }
 
+/*Add circle to center clock*/
+
+.clock::after {
+    content: " ";
+    position: absolute;
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 11;
+}
+
 /*Clock numbers*/
 
 .clock .number {

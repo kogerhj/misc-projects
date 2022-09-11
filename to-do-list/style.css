@@ -34,7 +34,7 @@ body {
     width: 40%;
     top: 50%;
     left: 50%;
-    background: #faf5e4;
+    background: #f8b400;
     min-width: 450px;
     min-height: 25vh;
     border-radius: 10px;
@@ -44,4 +44,17 @@ body {
 .add-task {
     position: relative;
     padding: 30px 20px;
+}
+
+.add-task input {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    background-color: #faf5e4;
+    width: 75%;
+    height: 45px;
+    font-weight: 500;
+    font-size: 1.3rem;
+    border: 2px solid #2c786c;
+    padding-left: 1.5rem;
+    border-radius: 10px;
 }

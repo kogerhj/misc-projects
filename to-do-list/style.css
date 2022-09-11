@@ -77,3 +77,13 @@ button {
     border-radius: 10px;
     cursor: pointer;
 }
+
+.task {
+    width: 100%;
+    position: relative;
+    background-color: #faf5e4;
+    padding: 30px 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}

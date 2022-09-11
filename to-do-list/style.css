@@ -78,7 +78,7 @@ button {
     cursor: pointer;
 }
 
-.task {
+.tasks {
     width: 100%;
     position: relative;
     background-color: #faf5e4;

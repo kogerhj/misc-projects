@@ -81,7 +81,7 @@ button {
 .tasks {
     width: 100%;
     position: relative;
-    background-color: #faf5e4;
+    background-color:#f8b400;
     padding: 30px 20px;
     margin-top: 10px;
     border-radius: 10px;
@@ -96,6 +96,8 @@ button {
     align-items: center;
     justify-content: space-between;
     cursor: pointer;
+    background-color: #faf5e4;
+    border-radius: 10px;;
 }
 
 .new-task span {

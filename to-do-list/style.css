@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+
+
 .first-color { 
 	background: #f8b400; 
 }
@@ -20,7 +22,21 @@
 	background: #004445; 
 }
 
+
+
 body {
     height: 100vh;
     background: #2c786c;
+}
+
+.container {
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    background: #faf5e4;
+    min-width: 450px;
+    min-height: 25vh;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
 }

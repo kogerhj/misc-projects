@@ -19,3 +19,8 @@
 .fourth-color { 
 	background: #004445; 
 }
+
+body {
+    height: 100vh;
+    background: #2c786c;
+}

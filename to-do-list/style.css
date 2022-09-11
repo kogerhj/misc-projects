@@ -27,6 +27,7 @@
 body {
     height: 100vh;
     background: #2c786c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .container {
@@ -47,7 +48,6 @@ body {
 }
 
 .add-task input {
-    font-family: Georgia, 'Times New Roman', Times, serif;
     position: relative;
     background-color: #faf5e4;
     width: 75%;
@@ -62,4 +62,18 @@ body {
 .add-task input:focus {
     outline: none;
     background-color: white;
+}
+
+button {
+    position: relative;
+    float: right;
+    font-weight: 500;
+    font-size: 1.3rem;
+    background-color:#004445;
+    color: #faf5e4;
+    border: none;
+    width: 20%;
+    height: 45px;
+    border-radius: 10px;
+    cursor: pointer;
 }
